@@ -4,7 +4,7 @@
   "description": "Translates/converts an english number to arabic number",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/essaji/number-to-arabic/issues"
   },
-  "homepage": "https://github.com/essaji/number-to-arabic#readme"
+  "homepage": "https://github.com/essaji/number-to-arabic#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
