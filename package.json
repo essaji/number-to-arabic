@@ -1,0 +1,23 @@
+{
+  "name": "number-to-arabic",
+  "version": "1.0.0",
+  "description": "Translates/converts an english number to arabic number",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essaji/number-to-arabic.git"
+  },
+  "keywords": [
+    "Arabic",
+    "number"
+  ],
+  "author": "Eesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/essaji/number-to-arabic/issues"
+  },
+  "homepage": "https://github.com/essaji/number-to-arabic#readme"
+}
