@@ -1,7 +1,7 @@
 # Number to Arabic
 
 # Installation
-```javascript
+```
 npm install number-to-arabic
 ```
 
