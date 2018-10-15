@@ -1,4 +1,4 @@
-# Number to Arabic
+# Number to Arabic [![Build Status](https://travis-ci.org/essaji/number-to-arabic.svg?branch=master)](https://travis-ci.org/essaji/number-to-arabic)
 
 # Installation
 ```
