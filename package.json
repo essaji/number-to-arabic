@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/essaji/number-to-arabic#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^29.3.1"
   }
 }
